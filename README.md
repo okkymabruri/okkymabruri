@@ -6,6 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okkymabruri&label=Views&color=blue&style=plastic" alt="okkymabruri" /> </p>
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okkymabruri&layout=compact)](https://github.com/okkymabruri)
 
 <!--
