@@ -1,7 +1,7 @@
 ### Hi.. I'm Okky 👋
 
 - 🌱 I’m currently learning data science
-- 📫 Contact me: okkymabrur@gmail.com
+- 📫 Contact me: okkymbrur@gmail.com
 - 🌐 Page: [okkymabruri.github.io](https://okkymabruri.github.io/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okkymabruri&label=Views&color=blue&style=plastic" alt="okkymabruri" /> </p>
