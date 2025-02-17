@@ -1,6 +1,6 @@
 ### Hi.. I'm Okky 👋
 
-- 🌱 I’m currently learning data science
+- 🌱 I’m a data professional with strong interest in leveraging AI and data for public policy
 - 📫 Contact me: okkymbrur@gmail.com
 - 🌐 Page: [okkymabruri.github.io](https://okkymabruri.github.io/)
 
